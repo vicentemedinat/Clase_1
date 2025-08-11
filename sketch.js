@@ -1,7 +1,7 @@
 var d;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight).position(0,0).style('z-index','-1');
   background(0,67,143);
 }
 
