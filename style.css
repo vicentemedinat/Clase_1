@@ -8,3 +8,7 @@ canvas {
 h1{
   font-family:Helvetica, Arial, sans-serif;
 }
+
+div{
+  backround:rgba(255,255,255,.5);
+}
